@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Mukesh
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am currently pursuing Computer Science with a specialization in Cloud Edge Computing at Koneru Lakshmaiah Educational Foundations, Vijayawada. Known for my strong teamwork abilities and effective communication skills, I thrive in collaborative work environments and actively promote
 synergy within multidisciplinary teams.
