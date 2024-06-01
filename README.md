@@ -9,6 +9,18 @@ Skills: Java / Python / C language / Django / SQL / REACT / JSP / HTML / CSS / M
 - 💬 Ask me about AWS , Cloud and Web development 
 - 📫 How to reach me: 2100031981cse.h@gmail.com
 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .icon {
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">FrontEnd Development:</h4>
